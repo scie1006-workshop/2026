@@ -219,7 +219,7 @@ By finishing this session, you should be able to
 
       ![](images/deploy-ur-cluster2.png)
 
-   <div style="page-break-after: always;"></div>
+      <div style="page-break-after: always;"></div>
 
    1. Then, copy and save the username and password for your MongoDB database. **Please keep the password, as you will need it later**. You can click the "Download.env file" button to save the information. Then, click on the "Choose a connection method" button to proceed.
 
@@ -232,7 +232,7 @@ By finishing this session, you should be able to
    
       ![](images/connect-c0.png)
 
-   <div style="page-break-after: always;"></div>
+      <div style="page-break-after: always;"></div>
 
    1. Select "Python" as the driver and "3.12 or later" as the version. Then, click on the copy button to copy the connection string to your clipboard.
 
