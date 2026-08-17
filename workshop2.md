@@ -206,13 +206,13 @@ By finishing this session, you should be able to
 
       ![](images/continue.png)
    
-   <div style="page-break-after: always;"></div>
+      <div style="page-break-after: always;"></div>
 
    1. You will need to fill out a questionnaire for the first time. You could fill out the questionnaire as follows:
 
       ![](images/questionnaire.png)
 
-   <div style="page-break-after: always;"></div>
+      <div style="page-break-after: always;"></div>
 
 
    1. After that, you will need to create a MongoDB cluster. A cluster is a group of servers that store your data. Then, select the "M0" option. Then, select the "AWS" option. In the "Region" dropdown list, select "Hong Kong". Give it a name as you like and click on the "Create Deployment" button.
