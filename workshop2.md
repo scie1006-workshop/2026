@@ -250,9 +250,9 @@ By finishing this session, you should be able to
 
       ![](images/network-access1.png)
 
-   1. Click "ALLOW ACCESS FROM ANYWHERE" and then "Confirm" to finish.
+   1. Type "0.0.0.0/0" into the "Access List Entry" to allow access from anywhere, and then click "Confirm" to finish.
 
-      ![](images/edit-ip.png)
+      ![](images/edit-ip.jpg)
 
       <div style="page-break-after: always;"></div>
    
