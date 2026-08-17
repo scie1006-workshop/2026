@@ -10,7 +10,7 @@ By finishing this session, you should be able to
 
 ## Github Page
 
-- [https://github.com/scie1006-workshop/2025/blob/main/workshop2.md](https://github.com/scie1006-workshop/2026/edit/main/workshop2.md)
+- [https://github.com/scie1006-workshop/2026/blob/main/workshop2.md](https://github.com/scie1006-workshop/2026/blob/main/workshop2.md)
 
 ## Part 1: Getting Started
 
