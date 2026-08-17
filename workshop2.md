@@ -486,7 +486,7 @@ The data file `daily_temp_2022.json.txt` contains the daily average, highest and
    ![Alt text](images/discus-5.png)
    
 6. Repeat steps 2 to 5 to create a new collection called `weather_station` to store the data in the `weather_station.json.txt`
-7. You can now build charts in the Dashboard in Part 6. 
+7. You can now build charts in a Dashboard. 
 
 <div style="page-break-after: always;"></div>
 
