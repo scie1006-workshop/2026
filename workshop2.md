@@ -226,7 +226,7 @@ By finishing this session, you should be able to
       ![](images/db-user.jpg)
 
 
-   <div style="page-break-after: always;"></div>
+      <div style="page-break-after: always;"></div>
 
    1. Click on "Drivers". 
    
