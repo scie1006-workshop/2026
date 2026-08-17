@@ -221,13 +221,10 @@ By finishing this session, you should be able to
 
    <div style="page-break-after: always;"></div>
 
-   1. Then, fill in the username and password for your MongoDB database. **Please keep the password as you will need it later**. Then, click on the "Create Database User" button.
+   1. Then, copy and save the username and password for your MongoDB database. **Please keep the password, as you will need it later**. You can click the "Download.env file" button to save the information. Then, click on the "Choose a connection method" button to proceed.
 
-      ![](images/db-user.png)
+      ![](images/db-user.jpg)
 
-   1. Click "Choose a connection method" to proceed.
-
-      ![](images/connect.png)
 
    <div style="page-break-after: always;"></div>
 
