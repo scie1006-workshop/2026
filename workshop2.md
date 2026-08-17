@@ -439,7 +439,17 @@ By finishing this session, you should be able to
 Question: Do you think the MongoDB charts in Part 6 do a good job of visualising the data? Why not, or why? In Part 6, add more charts to the dashboard and describe how they can effectively visualise the data in no more than 500 words.
 - Answer the discussion question in the Moodle submission box.
 
+## Submission
+
+You have to submit the following items to the Moodle submission box:
+
+-  **`sensor.py`**
+- MongoDB connection string (the URI with password)
+- MongoDB Atlas Dashboard Link (with charts)
+- Discussion Question
+  
 ## Optional Exercise
+
 Use MongoDB charts to generate effective visualizations for the dataset shown below. Explain why the visuals are effective.
 - Reference: https://www.mongodb.com/docs/charts/
   
@@ -515,18 +525,8 @@ By default, the data fields are stored as strings. You have to convert numbers s
    ![Alt text](images/discus-8.png)
 
    <div style="page-break-after: always;"></div>
+
    
-## Submission
-
-You have to submit the following items to the Moodle submission box:
-
--  **`sensor.py`**
-- MongoDB connection string (the URI with password)
-- MongoDB Atlas Dashboard Link (with charts)
-- Discussion Question
-  
-
-
 ## References
 
 - Embed charts and dashboards — MongoDB charts. (n.d.). MongoDB: The Developer Data Platform | MongoDB. https://www.mongodb.com/docs/charts/embed-charts-and-dashboards/
