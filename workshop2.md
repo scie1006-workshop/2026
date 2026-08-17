@@ -234,11 +234,11 @@ By finishing this session, you should be able to
 
    <div style="page-break-after: always;"></div>
 
-   1. Select "Python" as the driver and "3.12 or later" as the version. Then, click on the copy button to copy the URI to your clipboard.
+   1. Select "Python" as the driver and "3.12 or later" as the version. Then, click on the copy button to copy the connection string to your clipboard.
 
-      ![](images/connection-str.png)
+      ![](images/connection-str.jpg)
 
-   1. **Paste the URI into the Moodle submission box. You will need to use this URI to connect to the database in your Python code.**
+   1. **Paste the connection string into the Moodle submission box. You will need to use this URI to connect to the database in your Python code.**
    
       <div style="page-break-after: always;"></div>
 
