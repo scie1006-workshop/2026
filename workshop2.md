@@ -436,8 +436,11 @@ By finishing this session, you should be able to
       
 
 ## Discussion
-Question: Use MongoDB charts to generate effective visualizations for the dataset shown below. You should add the charts to the same Dashboard as in Part 6. Explain why the visuals are effective in no more than 500 words.
+Question: Do you think the MongoDB charts in Part 6 do a good job of visualising the data? Why not, or why? In Part 6, add more charts to the dashboard and describe how they can effectively visualise the data in no more than 500 words.
 - Answer the discussion question in the Moodle submission box.
+
+## Optional Exercise
+Use MongoDB charts to generate effective visualizations for the dataset shown below. Explain why the visuals are effective.
 - Reference: https://www.mongodb.com/docs/charts/
   
 #### Dataset: Daily Temperature for 2022
