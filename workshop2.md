@@ -202,49 +202,46 @@ By finishing this session, you should be able to
       ![](images/sign-up-mongodb-atlas.png)
       
 
-   2. To log in, you have to **verify your email address** and **receive a code via email**. Then, click "Continue".
+   1. To log in, you have to **verify your email address** and **receive a code via email**. Then, click "Continue".
 
       ![](images/continue.png)
    
    <div style="page-break-after: always;"></div>
 
-   3. You will need to fill out a questionnaire for the first time. You could fill out the questionnaire as follows:
+   1. You will need to fill out a questionnaire for the first time. You could fill out the questionnaire as follows:
 
       ![](images/questionnaire.png)
 
    <div style="page-break-after: always;"></div>
 
-   4. Click "Create" to create a cluster.
 
-      ![](images/create-cluster.png)
-
-   5. After that, you will need to create a MongoDB cluster. A cluster is a group of servers that store your data. Then, select the "M0" option. Then, select the "AWS" option. In the "Region" dropdown list, select "Hong Kong". Give it a name as you like and click on the "Create Deployment" button.
+   1. After that, you will need to create a MongoDB cluster. A cluster is a group of servers that store your data. Then, select the "M0" option. Then, select the "AWS" option. In the "Region" dropdown list, select "Hong Kong". Give it a name as you like and click on the "Create Deployment" button.
 
       ![](images/deploy-ur-cluster2.png)
 
    <div style="page-break-after: always;"></div>
 
-   6. Then, fill in the username and password for your MongoDB database. **Please keep the password as you will need it later**. Then, click on the "Create Database User" button.
+   1. Then, fill in the username and password for your MongoDB database. **Please keep the password as you will need it later**. Then, click on the "Create Database User" button.
 
       ![](images/db-user.png)
 
-   7. Click "Choose a connection method" to proceed.
+   1. Click "Choose a connection method" to proceed.
 
       ![](images/connect.png)
 
    <div style="page-break-after: always;"></div>
 
-   8. Click on "Drivers". 
+   1. Click on "Drivers". 
    
       ![](images/connect-c0.png)
 
    <div style="page-break-after: always;"></div>
 
-   9. Select "Python" as the driver and "3.12 or later" as the version. Then, click on the copy button to copy the URI to your clipboard.
+   1. Select "Python" as the driver and "3.12 or later" as the version. Then, click on the copy button to copy the URI to your clipboard.
 
       ![](images/connection-str.png)
 
-   9. **Paste the URI into the Moodle submission box. You will need to use this URI to connect to the database in your Python code.**
+   1. **Paste the URI into the Moodle submission box. You will need to use this URI to connect to the database in your Python code.**
    
       <div style="page-break-after: always;"></div>
 
