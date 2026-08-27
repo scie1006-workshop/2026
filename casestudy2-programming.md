@@ -31,24 +31,29 @@ Before obtaining data from the cloud database, the sensor must be turned on and 
    iii.  Click the Connect button on BU-Standard and input your password to connect to the network.
 
    ![Alt text](images/wifi4.png)
-4. Right-click the desktop and select Create New, followed by Folder.
+3. Right-click the desktop and select Create New, followed by Folder.
 
    ![Alt text](images/createFolder1.png)
-5. Enter "MyProject" as the folder name, then click OK.
+4. Enter "MyProject" as the folder name, then click OK.
 
    ![Alt text](images/createFolder2.png)
 
    <div style="page-break-after: always;"></div>
-6. Launch Visual Studio Code by clicking the icon in the taskbar.
+5. Launch Visual Studio Code by clicking the icon in the taskbar.
 
    ![Alt text](images/vs-icon.png)
-7. Choose Open Folder from the File menu.
+6. Choose Open Folder from the File menu.
 
    ![Alt text](images/vs-openfolder.png)
-8. After finding the MyProject folder on Desktop, click OK. If prompted, select Trust the authors.
+
+   
+7. After finding the MyProject folder on Desktop, click OK. If prompted, select Trust the authors.
 
    ![Alt text](images/vs-openfolder2-new.png)
-9. Get back the **`sensor.py`** you have completed in **workshop 2** and save it to the MyProject folder.
+
+   <div style="page-break-after: always;"></div>
+
+8. Get back the **`sensor.py`** you have completed in **workshop 2** and save it to the MyProject folder.
   
     ```python
       from smbus2 import SMBus
@@ -95,7 +100,7 @@ Before obtaining data from the cloud database, the sensor must be turned on and 
          time.sleep(60) 
       ```
 
-10.  Run the **`sensor.py`** program.
+9.  Run the **`sensor.py`** program.
 
    <div style="page-break-after: always;"></div>
 
@@ -112,11 +117,14 @@ Before obtaining data from the cloud database, the sensor must be turned on and 
 2. Click the Start icon, and choose Visual Studio Code from the start menu.
    
    ![Alt text](images/vs-win.png)
-   <div style="page-break-after: always;"></div>
+   
 
 3. Choose Open Folder from the File menu.
 
    ![Alt text](images/vs-openfolder-win.png)
+
+   <div style="page-break-after: always;"></div>
+
 4. After finding the MyApp folder on Desktop, click Select Folder.
 
    ![Alt text](images/vs-openfoler-win2.png)
@@ -204,6 +212,8 @@ In this part, we will use the `pygame` library to create the GUI.
        pygame.event.pump()
    ```
    
+   <div style="page-break-after: always;"></div>
+
 5. Let's set the background color to white before we draw the text **at the end of the loop**.
    ```python
        # fill the window with white color by RGB code (255, 255, 255)
@@ -213,7 +223,7 @@ In this part, we will use the `pygame` library to create the GUI.
 
    ![Alt text](images/rgb-color.png)
 
-   
+   <div style="page-break-after: always;"></div>
    
 6. To show text on the window, we first create a text surface and then draw it at a position. In pygame, positions are always supplied as an (X,Y) coordinate. This represents how many pixels to the right and how many pixels down the surface should be placed. Put the following code **at the end of the loop**.
 
@@ -228,7 +238,7 @@ In this part, we will use the `pygame` library to create the GUI.
    
    ```
 
-   <div style="page-break-after: always;"></div>
+   
 
 7. Finally, we update the display using `pygame.display.update()` to limit the frame rate to 1 frame per second using clock.tick(1). Put the following code **at the end of the loop**.
    ```python
@@ -237,6 +247,9 @@ In this part, we will use the `pygame` library to create the GUI.
        # set the frame rate to 1 frame per second
        clock.tick(1) 
    ```
+
+   <div style="page-break-after: always;"></div>
+   
 8. **Exercise: Displaying humidity value in the window**
    
    Draw the humidity data on the window. Make it under the temperature data. You should put the code **before** the line `pygame.display.update()`.
