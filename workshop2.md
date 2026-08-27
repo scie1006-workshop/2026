@@ -170,7 +170,7 @@ By finishing this session, you should be able to
    ![Sample output](images/sample-output-temp.png)
          
             
-   5. **Exercise: Calculate and print the humidity**
+   4. **Exercise: Calculate and print the humidity**
 
       The formula to calculate the humidity (in percentage) from the `humi` signal is as follows:
    
