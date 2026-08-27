@@ -9,7 +9,7 @@ By finishing this session, you should be able to
 
 ## Github Page
 
-- [https://github.com/scie1006-workshop/2025/blob/main/casestudy2-programming.md](https://github.com/scie1006-workshop/2025/blob/main/casestudy2-programming.md)
+- [https://github.com/scie1006-workshop/2026/blob/main/casestudy2-programming.md](https://github.com/scie1006-workshop/2026/blob/main/casestudy2-programming.md)
   
 ## Part 1: Getting Started
 We learned how to record the environment's temperature and humidity in the earlier lessons and send the information to a cloud database. We will now learn how to use a GUI application to retrieve the data from the database and notify the user when the sensor reading deviates from the expected range.
