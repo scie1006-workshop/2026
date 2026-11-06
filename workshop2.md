@@ -18,17 +18,30 @@ By finishing this session, you should be able to
 
 2. Connect to the BU-Standard WIFI network.
 
-   i.  Click the Networks icon in the taskbar, and then click the down arrrow next to BU-Standard and select Configure...
+   i.  Click the Networks icon in the taskbar and connect to BU-Standard.
 
-   ![Alt text](images/wifi1-new.png)
+   ![Alt text](images/wifi1a.png)
    <div style="page-break-after: always;"></div>
-   ii.  Configure the connection as follows and then click Apply.
+   ii.  Configure the connection as follows and then click Save.
 
-   ![Alt text](images/wifi-config.png)
+   ![Alt text](images/wifi2a.png)
 
-   iii.  Click the Connect button on BU-Standard and input your password to connect to the network.
+   iii.  Select "Classic, blowfisth encrypted file" and click Finish.
 
-   ![Alt text](images/wifi4.png)
+   ![Alt text](images/wifi3a.png)
+
+   iv.  Leave the password empty and click OK.
+
+   ![Alt text](images/wifi4a.png)
+
+   v.  Click Yes to confirm.
+
+   ![Alt text](images/wifi5a.png)
+   
+
+   vi.  Input your password to connect to the BU-Standard.
+
+   ![Alt text](images/wifi6a.png)
 
    
 4. Right-click the desktop and select Create New, followed by Folder.
@@ -208,12 +221,17 @@ By finishing this session, you should be able to
    
       <div style="page-break-after: always;"></div>
 
-   1. You will need to fill out a questionnaire for the first time. You could fill out the questionnaire as follows:
+   1. You will need to fill out a questionnaire for the first time (if required). You could fill out the questionnaire as follows:
 
       ![](images/questionnaire.png)
 
       <div style="page-break-after: always;"></div>
 
+   1. If you see the following page, click **Skip - I'm here for something else**.
+       ![](images/somethingelse.png)
+
+   1. Click the **Create** button to create a new cluster.
+       ![](images/createcluster.png)
 
    1. After that, you will need to create a MongoDB cluster. A cluster is a group of servers that store your data. Then, select the "M0" option. Then, select the "AWS" option. In the "Region" dropdown list, select "Hong Kong". Give it a name as you like and click on the "Create Deployment" button.
 
@@ -228,19 +246,21 @@ By finishing this session, you should be able to
 
       <div style="page-break-after: always;"></div>
 
-   1. Click on "Drivers". 
+   1. **Copy and paste the connection string (MONGODB_URI) into the Moodle submission box. You will need to use this URI to connect to the database in your Python code.**
+    
+      ![](images/envfile.png)
+      
+
+   1. Click on "Drivers and Client Libraries". 
    
-      ![](images/connect-c0.png)
+      ![](images/connect.png)
 
       <div style="page-break-after: always;"></div>
 
-   1. Select "Python" as the driver and "3.12 or later" as the version. Then, click on the copy button to copy the connection string to your clipboard.
+   1. Select "Python" as the language and "PyMongo (Synchronous)" as the client library. Then, click "Done".
 
-      ![](images/connection-str.jpg)
+      ![](images/driver.png)
 
-   1. **Paste the connection string into the Moodle submission box. You will need to use this URI to connect to the database in your Python code.**
-   
-      <div style="page-break-after: always;"></div>
 
    1. Click on "Database & Network Access" in the SECURITY section of the left panel.
 
