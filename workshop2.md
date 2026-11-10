@@ -75,11 +75,18 @@ By finishing this session, you should be able to
 10. Choose Save from the File menu or press `Ctrl+S` to save the file.
 
     ![Alt text](images/vs-save.png)
-11. Click the run button at the upper right to execute the program. The result will be shown in the terminal.
+
+11. Click the **Manage** and select **Trust** to trust the folder.
+
+    ![Alt text](images/manage.png)
+
+    ![Alt text](images/trust.png)
+    
+12. Click the run button at the upper right to execute the program. The result will be shown in the terminal.
 
     ![Alt text](images/vs-run.png)
 
-12. Sample output:
+14. Sample output:
     
     ![Alt text](images/vs-sample-output.png)
 
