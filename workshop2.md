@@ -246,7 +246,7 @@ By finishing this session, you should be able to
 
       <div style="page-break-after: always;"></div>
 
-   1. Then, copy and save the username and password for your MongoDB database. **Please keep the password, as you will need it later**. You can click the "Download.env file" button to save the information. Then, click on the "Choose a connection method" button to proceed.
+   1. Then, copy and save the username and password for your MongoDB database. **Please keep the password, as you will need it later**. You can **click the "Download.env file" button to save the information**. Then, click on the "Choose a connection method" button to proceed.
 
       ![](images/db-user.jpg)
 
