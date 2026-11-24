@@ -271,6 +271,16 @@ In this part, we will use the `pygame` library to create the GUI.
    
    <div style="page-break-after: always;"></div>
    
+   Note: You may need to set the Python interpreter to **scie1006_env** as follows (notebook computer only).
+
+   1. Click on the currently displayed Python version in the bottom-right corner of the VS Code window.
+
+   ![Alt text](images/env1.jpg)
+
+   2. A dropdown list will appear at the top, click  **scie1006_env** to use it.
+
+   ![Alt text](images/env2.jpg)
+
 
 ## Part 4: Alerting the User with Colors
 
